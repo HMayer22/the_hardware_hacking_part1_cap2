@@ -9,9 +9,6 @@
 >
 > Andrew "coelho" Huang
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image1.png){width="0.625in"
-height="0.625in"}
-
 > Parte 1. Capítulo 2.
 >
 > dentro de três fábricas muito diferentes
@@ -30,7 +27,7 @@ height="0.625in"}
 > instalações que são especialistas em processos (como\
 > fabricaçãode PCB ou fabricaçãode zíperes) que são
 
-44**Capítulo 2**
+**Capítulo 2**
 
 com curadoria de marcas conhecidas. Portanto, não é incomum ver produtos
 de dois concorrentes operando lado alado em linhas semelhantes em uma
@@ -69,10 +66,6 @@ Os membros da Officine Arduino(particularmente o diretor-gerente Davide
 Gomba) gentilmente reservaram um tempo de suas agendas lotadas
 paramostrar
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image2.png){width="4.248610017497813in"
-height="2.3820997375328083in"}
-
-dentrodetrês fábricas muito diferentes45
 
 > meem torno de suafábrica.Eles esperarampacientemente enquanto eu
 > expressava meu fotógrafo interno e meu amor geral por todas as coisas
@@ -97,7 +90,7 @@ dentrodetrês fábricas muito diferentes45
 > fábrica também eraonde pude acompanhar um novolote de ArduinoLeonardos
 > durante todooprocessode fabricação.Vejacomo essas placas foram feitas.
 
-46**Capítulo 2**
+**Capítulo 2**
 
 **começando com uma folha de cobre**
 
@@ -110,8 +103,6 @@ As folhas tinham1,6mmde espessura(a espessura mais comum para uma
 PCB,que corresponde a1/16polegada), provavelmente um metro de largura e
 cercade ummetro e meio de comprimento.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image3.png){width="3.963888888888889in"
-height="2.3847222222222224in"}
 
 A primeira etapa no processamento de PCBs é perfurar todos os holepads,
 vias (os pequenos orifícios que conectamas diferentes camadas do PCB),
@@ -126,19 +117,14 @@ processo. A perfuração também é um processo sujo e confuso que
 podedanificar os padrões do circuito se eles estiverem instalados
 antecipadamente.
 
-dentrodetrês fábricas muito diferentes47
+dentrodetrês fábricas muito diferentes
 
-> ![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image4.png){width="3.5805555555555557in"
-> height="2.2666655730533685in"}
 
 A cabeçade perfuração CNC usadaparaperfurar asplacas Arduino
 
 > Os painéis de cobre vazios foram empilhados em três alturas, e uma
 > furadeira CNC fez uma únicapassagem emtodos os três, permitindo
 > perfurar três substratos porvez.
->
-> ![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image5.png){width="3.5930555555555554in"
-> height="2.2666666666666666in"}
 
 O rack deperfuração usadopela furadeira CNC.
 
@@ -150,10 +136,7 @@ perfuração".
 > acontagem de vias é um parâmetro tãoimportante nocálculo docustode
 > umaPCB.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image6.png){width="4.276387795275591in"
-height="2.9135389326334207in"}
-
-48**Capítulo 2**
+**Capítulo 2**
 
 Observe que afuradeira específica que vi na System Elettronica era
 relativamente pequena. Já vi enormes plataformas de perfuração na China
@@ -176,11 +159,6 @@ estãoprontos para a próxima etapa do processo de fabricação.
 
 > Umapilhade painéisperfurados e acabadosde placas Arduino Leonardo
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image7.png){width="3.959722222222222in"
-height="2.217603893263342in"}![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image8.png){width="4.248610017497813in"
-height="2.3820997375328083in"}
-
-dentrodetrês fábricas muito diferentes49
 
 > **aplicando opadrãoPCBao cobre**
 >
@@ -204,21 +182,15 @@ Apósa aplicação do padrão, cada painel de placas éenviado para uma
 máquina para ser desenvolvido. Neste caso, a mesma máquina
 éutilizadapara revelar o fotorresistente e amáscara de solda.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image9.png){width="4.25in"
-height="2.3833333333333333in"}
 
 > Amáquina que desenvolve o fotorresiste
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image10.png){width="4.25in"
-height="2.3847222222222224in"}
 
 > Essa foto de umpainel com fotorresistente reveladoéuma das minhasfotos
 > preferidasda fábrica da SystemElettronica.
 >
 > Além disso, algo sobre"Codice: Leonardo"parecelegal.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image11.png){width="4.15in"
-height="2.326878827646544in"}
 
 dentrodetrês fábricas muito diferentes51
 
@@ -254,10 +226,8 @@ dentrodetrês fábricas muito diferentes51
 >
 > almofadas doorifício de passagem anteriormente não revestidas .
 >
-> 52**Capítulo 2**
+> **Capítulo 2**
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image12.png){width="4.280555555555556in"
-height="3.3333333333333335in"}
 
 > Painéis de placasArduino Leonardo apóspassarempor uma
 > sériedebanhosquímicos
@@ -266,18 +236,6 @@ height="3.3333333333333335in"}
 > deixando apenas o FR-4 bruto e o cobre revestido. A etapa final do
 > processamentoproduzumacabamento de cobre brilhante.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image13.png){width="4.248611111111111in"
-height="2.3847222222222224in"}
-
-Umpainel gravado emcobre indesejado
-
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image15.png){width="4.25in"
-height="2.382878390201225in"}
-
-dentrodetrês fábricas muito diferentes53
-
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image14.png){width="4.248610017497813in"
-height="2.3833333333333333in"}
 
 > Painéis PCB com cobre brilhanteebrilhante. Esta foto não mostra um
 > painelArduino, já queeles não estavam passando pela máquina
@@ -296,7 +254,7 @@ height="2.3833333333333333in"}
 > Um painel de placas Arduino commáscara desolda eserigrafia
 > desenvolvido
 
-54**Capítulo 2**
+**Capítulo 2**
 
 NocasodosArduinos, a serigrafia é na verdade uma segunda camada da
 máscara de solda. Umaformulação muito específica de máscara de solda
@@ -334,13 +292,6 @@ exigem religaçãofísica semprequeos arquivos Gerber quedescrevem as
 imagens PCB são atualizados. Portanto, em volumes menores, o testede
 sonda voadora émais econômicoe flexível do que o teste em concha.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image17.png){width="4.081943350831146in"
-height="2.2868482064741906in"}
-
-dentrodetrês fábricas muito diferentes55
-
-> ![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image16.png){width="4.081943350831146in"
-> height="2.290277777777778in"}
 >
 > Umapilhade painéisPCB quase acabados,\
 > prontoparauma etapa final de roteamentodasplacas individuais
@@ -357,15 +308,8 @@ dentrodetrês fábricas muito diferentes55
 
 Vários painéisArduino, empilhados pararoteamento
 
-56**Capítulo 2**
+**Capítulo 2**
 
-> ![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image18.png){width="4.041666666666667in"
-> height="2.123611111111111in"}
->
-> Painéis menores 2×6 tornamoprocessamentoSMT maiseficiente.
->
-> ![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image19.png){width="4.069444444444445in"
-> height="2.6055555555555556in"}
 >
 > Uma verdadeirapilhade cercade 25.000 PCBs Arduino vazios, prontos para
 > sairda fábricade PCBs. A partirdaí, eles foram recheados,\
@@ -426,18 +370,10 @@ umamelhoria
 >
 > funcionalidadeda memória.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image21.png){width="3.595832239720035in"
-height="2.4038877952755904in"}
 
-58**Capítulo 2**
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image20.png){width="3.5819433508311462in"
-height="2.675in"}
+**Capítulo 2**
 
-> Uma estação de trabalhoonde os chips de memóriaflash são selecionados.
->
-> O retângulo de metal à esquerda com o corte circular é o cartão
-> dasonda.
 
 Em uma estação de trabalho nesta fábrica,pilhas dechips flash vazios\
 aguardavam testes e armazenamentocom umcartãode sonda, que possui pinos
@@ -451,8 +387,6 @@ A placa desonda, de perto
 
 dentrodetrês fábricas muito diferentes59
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image22.png){width="4.281943350831146in"
-height="3.584722222222222in"}
 
 > Olhando através do microscópio na estação demicrossondagem. Observe as
 > agulhas tocando as almofadasquadradasnabordadasuperfíciedochipflash.
@@ -471,16 +405,12 @@ height="3.584722222222222in"}
 > todas as instalações de wire bonding orientadas paraovalor que visitei
 > dependem da colocação manualdamatriz nua.
 
-60**Capítulo 2**
+**Capítulo 2**
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image23.png){width="4.25in"
-height="2.3833333333333333in"}
 
 > UmIC controladorsendocolocado emumpainel de PCBsdependrive USB. As
 > minúsculasmatrizes estãoàdireita, emum pacotede waffles.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image24.png){width="4.25in"
-height="2.3847222222222224in"}
 
 > Uma visãoampliada da estação de trabalho de colocação dematrizes
 
@@ -524,13 +454,8 @@ dentrodetrês fábricas muito diferentes61
 > defeituosos e correção de erros, entre outras coisas.Ocontrolador era
 > provavelmente uma CPU da classe 8051 rodando a algumas dezenas de MHz.
 
-62**Capítulo 2**
+**Capítulo 2**
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image25.png){width="3.0875in"
-height="3.2472222222222222in"}
-
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image26.png){width="3.168054461942257in"
-height="2.9444444444444446in"}
 
 > APCB parcialmente ligada, mas totalmente montada emmatriz, que o o
 >
@@ -540,21 +465,16 @@ height="2.9444444444444446in"}
 
 dentrodetrês fábricas muito diferentes63
 
-> ![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image27.png){width="4.070833333333334in"
-> height="2.765277777777778in"}
->
+> 
 > Curiosamente, todo o conjunto do stick USB é flexível
 > antesdoencapsulamento.
 >
-> ![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image28.png){width="4.072222222222222in"
-> height="3.165277777777778in"}
+>
 >
 > Amarcação da matrizdo chip flash. Aparentemente, éfabricadopela Intel.
 
-64**Capítulo 2**
+**Capítulo 2**
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image29.png){width="3.3583333333333334in"
-height="3.2736111111111112in"}
 
 > Uma foto do chip controlador queestava dentrodospendrives
 
@@ -577,8 +497,6 @@ umlivrosobreBluetooth de baixo consumo de energia evende uma
 varianteArduino + 802.15.4\
 chamada "Freakduino"),ele agora
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image30.png){width="4.248610017497813in"
-height="2.2382141294838145in"}
 
 dentrodetrês fábricas muito diferentes65
 
@@ -608,23 +526,17 @@ dentrodetrês fábricas muito diferentes65
 > Aproximadamente 1 tonelada de lingotes,\
 > composto de 93% de zinco e 7% deliga de alumínio
 >
-> 66**Capítulo 2**
+> **Capítulo 2**
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image31.png){width="4.270833333333333in"
-height="2.5in"}
 
 > Pelotasdeserragem comprimidas, usadas paraabastecerafundição de
 > lingotes
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image32.png){width="3.786111111111111in"
-height="3.444443350831146in"}
 
 Arroz,usadoparaalimentar os trabalhadores
 
 dentrodetrês fábricas muito diferentes67
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image33.png){width="4.281943350831146in"
-height="2.272222222222222in"}
 
 > Conjuntos de puxador de zíper e controle deslizante finalizados
 >
@@ -655,11 +567,8 @@ height="2.272222222222222in"}
 > \* Sinceramente, não sei como eles sãochamados, então sim, vou
 > continuar chamando-os assim.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image34.png){width="3.848610017497813in"
-height="2.5423851706036746in"}![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image35.png){width="3.861111111111111in"
-height="2.5555555555555554in"}
 
-68**Capítulo 2**
+**Capítulo 2**
 
 Quando coloqueiamão napanela,descobrique nãohavianenhum agitador para
 provocar o movimento;Eu apenas sentiuma forte vibração.
@@ -687,8 +596,6 @@ Aconteceque a resposta é muitosutile seresume à forma.
 
 > Observe a diferença entreessesdoisextratores, indicada pelassetas.
 
-![](vertopal_25ea377db19644e89a31a291fd283ebd/media/image36.png){width="4.248610017497813in"
-height="2.3820997375328083in"}
 
 dentrodetrês fábricas muito diferentes69
 
@@ -719,7 +626,7 @@ Extratores passando pelo vibrapot
 > Mesmo que essaaba sejamuito pequena, os consumidores podem sentir os
 > solavancos sutis, e alguns percebem isso como um
 
-70**Capítulo 2**
+**Capítulo 2**
 
 defeitono projeto. Como resultado, o designer insistiu em uma aba
 perfeitamentelisa, que, portanto, não tinhanenhum recurso que permitisse
